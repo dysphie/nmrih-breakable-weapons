@@ -1,3 +1,5 @@
+> [!WARNING]
+> This plugin is unmaintained since Torn Banner's acquisition of the game.
 
 # [NMRiH] Breakable Melee
 Adds durability to melee weapons, causing them to break after prolonged use.
